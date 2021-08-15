@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "type": "mssql.local",
+      "connectionId": "DataContext"
+    },
+    "mssql2": {
+      "type": "mssql.local",
+      "connectionId": "DataDbContext"
+    },
+    "mssql3": {
+      "type": "mssql.local",
+      "connectionId": "WebProjectContext"
+    }
+  }
+}
